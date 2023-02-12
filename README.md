@@ -11,3 +11,6 @@ Finally, we start the server using the app.listen() method, which listens on por
  * The medical bill information, including the uploaded file as a buffer, is then stored in an array named medicalBills. 
  * Note that this array will be lost if the server is restarted. If you want to persist the data, you'll need to use a database.
 
+## Code generator
+-The [main.js
+](https://github.com/Lor93/Medical-Billing-Assessment/blob/main/MedBill/main.js) is the file that contain the assessment code.
